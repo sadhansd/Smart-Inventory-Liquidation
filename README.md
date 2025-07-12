@@ -33,7 +33,7 @@ Build an AI system that optimizes markdown timing and discount percentage for pe
 - **Group C**: 6-hour pre-expiry discount (30%)
 
 ## Dataset: 
-[M5 Forecasting]https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+[M5 Forecasting](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
 ### why ?
 - It has weekly selling prices per item per store and daily unit sales per item per store. We can observe how changes in price influence demand over time (price elasticity)
 - We can quantify how demand responds to price while controlling for:
