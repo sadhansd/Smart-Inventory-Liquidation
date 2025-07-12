@@ -15,15 +15,15 @@ Build an AI system that optimizes markdown timing and discount percentage for pe
 1. **Demand Forecasting**  
    - Hybrid `SARIMA + LSTM` model for short-term predictions.
 2. **Price Elasticity Modeling**  
-   - Bayesian Ridge Regression to quantify demand sensitivity to discounts.
+   - `Bayesian Ridge Regression` to quantify demand sensitivity to discounts.
 3. **Causal Inference**  
    - `DoWhy`/`CausalImpact` to isolate markdown effects from external factors.
 4. **Prescriptive Optimization**  
    - Recommends optimal discount (%) and timing (hours before expiry).
 5. **Explainable AI**
-   - SHAP/LIME explanations for model decisions.
+   - `SHAP/LIME` explanations for model decisions.
 6. **EDA**
-   - ANOVA for variation across product types, time, store location
+   - `ANOVA` for variation across product types, time, store location
 
 
 ## Hypothesis Testing & Validation
