@@ -7,9 +7,9 @@ Small and mid-sized grocery retailers often suffer losses due to unsold perishab
 
 ## Objective:
 Build an AI system that optimizes markdown timing and discount percentage for perishable products to maximize sell-through rate while minimizing waste and margin loss.
-	• Forecasts near-term demand for perishable products.
-	• Quantifies uncertainty around how price impacts demand (elasticity).
-	• Determines the optimal markdown timing and percentage.
+- Forecasts near-term demand for perishable products.
+- Quantifies uncertainty around how price impacts demand (elasticity).
+- Determines the optimal markdown timing and percentage.
 
 ## Solution Overview
 1. **Demand Forecasting**  
